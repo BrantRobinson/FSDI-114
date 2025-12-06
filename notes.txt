@@ -1,0 +1,20 @@
+--------- Create venv-----------
+py -m venv venv
+
+--------- Activate venv --------
+venv\Scripts\activate
+
+-------install jupyter----------
+pip install jupyter
+
+------run notebook-----------
+py -m notebook
+
+
+-------create new notebook--------
+class_1.ipynb
+add the kernel using the url provided in the terminal
+
+
+
+
